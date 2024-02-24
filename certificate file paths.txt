@@ -1,0 +1,26 @@
+certificates\CPlusPlus_certificate.jpg
+certificates\Ebicho_Building a Website.jpg
+certificates\Ebicho_C++ Advanced.jpg
+certificates\Ebicho_C++.jpg
+certificates\Ebicho_CSS.jpg
+certificates\Ebicho_Cyber Security.jpg
+certificates\Ebicho_Data Structure and Algorithms.jpg
+certificates\Ebicho_Digital Marketing.jpg
+certificates\Ebicho_Ethical Hacking.jpg
+certificates\Ebicho_Fundamentals.jpg
+certificates\Ebicho_Hacking Advanced.jpg
+certificates\Ebicho_HTML Advanced.jpg
+certificates\Ebicho_HTML.jpg
+certificates\Ebicho_IT Basics.jpg
+certificates\Ebicho_JavaScript Advanced.jpg
+certificates\Ebicho_JavaScript.jpg
+certificates\Ebicho_Machine Learning.jpg
+certificates\Ebicho_OOPS.jpg
+certificates\Ebicho_Php.jpg
+certificates\Ebicho_Python Advanced.jpg
+certificates\Ebicho_Python.jpg
+certificates\Ebicho_Social Media Marketing.jpg
+certificates\Ebicho_SQL.jpg
+certificates\IMADMAJID-Programming Esse-certificate.jpg
+certificates\Photo from IMAD.jpg
+certificates\Python.jpg
