@@ -66,28 +66,6 @@ let changeJobTitle = () => {
 }
 changeJobTitle()
 
-let certificateDocs = [];
-function changeCertificate(certID){
-    document.getElementById("certificate").src = certificateDocs[certID];
-}
-
-fetch("certificate file paths.txt")
-    .then(response => {
-        return response.text();
-    })
-    .then(text => {
-        certificateDocs = text.split('\n')
-        certificateDocs.forEach((certPath, i) => {
-            document.getElementById("cert-to-select").innerHTML += `
-            <img src="${certPath}" onclick="changeCertificate(${i})">
-            `;
-        })
-        changeCertificate(0)
-    })
-    .catch(error => {
-        console.error(error);
-    })
-
 displayProjects()
 
 function displayProjects() {
